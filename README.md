@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>🌍 Web Server with ESP8266 using AT Commands 📡</h1>
+    <h1>🌍 Custom Web Server with ESP8266 For Wifi Controlled Lamp 📡</h1>
     <p>
         Transform your microcontroller into a dynamic web server leveraging the power of ESP8266.
     </p>
@@ -18,6 +18,14 @@
 - **🔗 Dynamic Connection Flow**: Smartly juggle multiple clients with our efficient dynamic stack data structure.
 
 ---
+<p align="center">
+  <img src="![image](m3.webp)" width="50%" height="50%">
+</p>
+
+
+![image](m4.webp)
+![image](m5.webp)
+
 
 ## 📖 Detailed Functions:
 

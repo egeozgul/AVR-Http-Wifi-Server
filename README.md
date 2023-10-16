@@ -19,7 +19,7 @@
 
 ---
 <p align="center">
-  <img src="![image](m3.webp)" width="50%" height="50%">
+  <img src="m3.webp" width="50%" height="50%">
 </p>
 
 

@@ -4,7 +4,7 @@
         Transform your microcontroller into a dynamic web server leveraging the power of ESP8266.
     </p>
     <img src="https://img.shields.io/badge/Version-1.0-blue.svg?style=for-the-badge" alt="Version">
-    <img src="https://img.shields.io/github/issues/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/issues/egeozgul/AVR-Http-Wifi-Server?style=for-the-badge" alt="Issues">
 </div>
 
 ---
